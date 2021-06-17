@@ -1,0 +1,16 @@
+C:\Users\julie\GIT PROBANDO\probando giiiittttt con csharp\bin\Debug\net5.0\probando giiiittttt con csharp.exe
+C:\Users\julie\GIT PROBANDO\probando giiiittttt con csharp\bin\Debug\net5.0\probando giiiittttt con csharp.deps.json
+C:\Users\julie\GIT PROBANDO\probando giiiittttt con csharp\bin\Debug\net5.0\probando giiiittttt con csharp.runtimeconfig.json
+C:\Users\julie\GIT PROBANDO\probando giiiittttt con csharp\bin\Debug\net5.0\probando giiiittttt con csharp.runtimeconfig.dev.json
+C:\Users\julie\GIT PROBANDO\probando giiiittttt con csharp\bin\Debug\net5.0\probando giiiittttt con csharp.dll
+C:\Users\julie\GIT PROBANDO\probando giiiittttt con csharp\bin\Debug\net5.0\ref\probando giiiittttt con csharp.dll
+C:\Users\julie\GIT PROBANDO\probando giiiittttt con csharp\bin\Debug\net5.0\probando giiiittttt con csharp.pdb
+C:\Users\julie\GIT PROBANDO\probando giiiittttt con csharp\obj\Debug\net5.0\probando giiiittttt con csharp.csprojAssemblyReference.cache
+C:\Users\julie\GIT PROBANDO\probando giiiittttt con csharp\obj\Debug\net5.0\probando giiiittttt con csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julie\GIT PROBANDO\probando giiiittttt con csharp\obj\Debug\net5.0\probando giiiittttt con csharp.AssemblyInfoInputs.cache
+C:\Users\julie\GIT PROBANDO\probando giiiittttt con csharp\obj\Debug\net5.0\probando giiiittttt con csharp.AssemblyInfo.cs
+C:\Users\julie\GIT PROBANDO\probando giiiittttt con csharp\obj\Debug\net5.0\probando giiiittttt con csharp.csproj.CoreCompileInputs.cache
+C:\Users\julie\GIT PROBANDO\probando giiiittttt con csharp\obj\Debug\net5.0\probando giiiittttt con csharp.dll
+C:\Users\julie\GIT PROBANDO\probando giiiittttt con csharp\obj\Debug\net5.0\ref\probando giiiittttt con csharp.dll
+C:\Users\julie\GIT PROBANDO\probando giiiittttt con csharp\obj\Debug\net5.0\probando giiiittttt con csharp.pdb
+C:\Users\julie\GIT PROBANDO\probando giiiittttt con csharp\obj\Debug\net5.0\probando giiiittttt con csharp.genruntimeconfig.cache
