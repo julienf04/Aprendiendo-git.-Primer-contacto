@@ -9,5 +9,7 @@ namespace probando_giiiittttt_con_csharp
     static class User
     {
         public static void ShowText(string show) => Console.WriteLine(show);
+
+        public static void ChangeConsoleColor(ConsoleColor color) => Console.BackgroundColor = color;
     }
 }
