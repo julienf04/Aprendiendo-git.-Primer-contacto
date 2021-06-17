@@ -10,6 +10,7 @@ namespace probando_giiiittttt_con_csharp
             Console.WriteLine("hola mundooooo");
 
             User.ShowText("mostraaameeeeeee");
+            Console.Write("modificando el codigo desde el mismo GitHub");
         }
     }
 }
