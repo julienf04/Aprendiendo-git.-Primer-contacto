@@ -6,6 +6,7 @@ namespace probando_giiiittttt_con_csharp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Bienvenido al programaaaa!!!! Estoy aprendiendo git y te doy las bienvenidas");
 
             Console.WriteLine("Bienvenido al prograaamaaa, pero este saludo lo mando desde la rama Main. El Otro saludo esta en otra rama llamada 'Bienvenido al programa'");
 
