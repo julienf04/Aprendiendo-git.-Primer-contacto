@@ -10,6 +10,7 @@ namespace probando_giiiittttt_con_csharp
 
             Console.WriteLine("Bienvenido al prograaamaaa, pero este saludo lo mando desde la rama Main. El Otro saludo esta en otra rama llamada 'Bienvenido al programa'");
 
+            Console.WriteLine("Bienvenido al programaaaa!!!! Estoy aprendiendo git y te doy las bienvenidas");
 
             Console.WriteLine("Hello World!");
             Console.WriteLine("hola mundooooo");
