@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\julie\\GIT PROBANDO\\probando giiiittttt con csharp\\probando giiiittttt con csharp.csproj",
+      "projectUniqueName": "C:\\Users\\julie\\GIT PROBANDO\\Aprendiendo-git.-Primer-contacto\\probando giiiittttt con csharp.csproj",
       "projectName": "probando giiiittttt con csharp",
-      "projectPath": "C:\\Users\\julie\\GIT PROBANDO\\probando giiiittttt con csharp\\probando giiiittttt con csharp.csproj",
+      "projectPath": "C:\\Users\\julie\\GIT PROBANDO\\Aprendiendo-git.-Primer-contacto\\probando giiiittttt con csharp.csproj",
       "packagesPath": "C:\\Users\\julie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\julie\\GIT PROBANDO\\probando giiiittttt con csharp\\obj\\",
+      "outputPath": "C:\\Users\\julie\\GIT PROBANDO\\Aprendiendo-git.-Primer-contacto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\julie\\AppData\\Roaming\\NuGet\\NuGet.Config",
